@@ -1,0 +1,3 @@
+nombre: daniel
+apellido: bsreiro
+edad: 24
