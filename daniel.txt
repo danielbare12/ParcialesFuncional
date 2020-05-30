@@ -1,3 +1,0 @@
-nombre: Daniel
-apellido: Bareiro
-edad: 24
